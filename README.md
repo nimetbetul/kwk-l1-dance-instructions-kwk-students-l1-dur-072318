@@ -11,8 +11,7 @@ When we learned about printing directly to the console through the Macarena, the
 steps were quite literal and simply echoed back each individual line as desired.
 Now that we know what **methods** are,  we can use them to consolidate or
 package individual steps and instructions together. This will prove to be
-incredibly useful! Let's put our smooth moves to the test and dance **Gangnam
-Style**.
+incredibly useful! Let's put our smooth moves to the test and dance **Gangnam Style**.
 
 
 
@@ -140,3 +139,26 @@ particular element of the dance.
 2. Then, call the methods at the end of `dance_instructions.rb`, ensuring they are
 called in the proper order. This will bring all the elements of the dance
 together, and we can do so in code very elegantly.
+def Gangnam Style-Dance Moves-Lower Body
+puts "plant legs far apart, bend knees slightly and keep posture loose."
+puts "Left right foot."
+puts "Return right foot to the ground."
+puts "Finishing with a small skip-step backward."
+end
+
+def Gangnam Style- skip-step Left
+puts "Lower left foot to the ground."
+puts "Bounce left foot back up slightly, kicking it a few inches back."
+puts "left, Right, Left and Left."
+end
+
+def Gangnam Style- skip-step Right
+puts "Lower right foot to the ground."
+puts "Bounce right foot back up slightly, kicking it a few inches back."
+puts "Right, Left, Right and Right."
+end
+
+def Gangnam Style-Bob the Reins
+puts "Holding your arms out in front of you, straight and at chest level."
+puts "Cross your right wrist over you left and hold them together."
+puts "Lift your arms up and down in a loose bouncing movement,
